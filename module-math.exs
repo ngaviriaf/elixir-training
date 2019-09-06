@@ -14,7 +14,7 @@ Provides math-related functions.
 """
 
     @doc """
-    Calculates the sum of two numbers.
+    Calculates the sum of two numbers
     """
     def sum(a, b) do
         do_sum(a, b)
